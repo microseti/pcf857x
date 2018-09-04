@@ -1,0 +1,14 @@
+{
+  "name": "PCF857X",
+  "keywords": "pcf857x, pcf8574, pcf8575, i2c, expander, input, output",
+  "description": "Input/Output expander with interface I2C",
+  "version": "2.1",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/microseti/pcf857x.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
+
