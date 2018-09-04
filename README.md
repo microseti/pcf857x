@@ -1,9 +1,6 @@
 # PCF857x Arduino library
-## By SkyWodd
-<https://github.com/skywodd> original PCF8574 Arduino library (version 2.0)
-
-## By Microseti
-<https://github.com/microseti> (version >=2.1)
+* By SkyWodd <https://github.com/skywodd> original PCF8574 Arduino library (version 2.0)
+* By Microseti <https://github.com/microseti> (version >=2.1)
 
 ### Overview
 ---
